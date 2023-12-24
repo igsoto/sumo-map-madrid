@@ -3,7 +3,7 @@
 To be used with Simulation of Urban MObility (SUMO)
 
 Contains:
-- A 4.5 km x 4.5 km map of Madrid city center (from [OpenStreeMap](https://www.openstreetmap.org/copyright))
+- A 4.5 km x 4.5 km map of Madrid city center (A SUMO map created from [OpenStreeMap](https://www.openstreetmap.org/copyright) using SUMO's NETCONVERT tool)
 - Obstacles
 - Between 2000 and 9000 cars making trips (insertion is uniformly distributed)
 - Routes are created using the Dynamic User Assignment (DUA) and A-Star algorithms.
